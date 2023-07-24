@@ -1,0 +1,33 @@
+.Navlist {
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    border-style: solid;
+    padding-bottom: 5%;
+}
+
+.Navimage {
+    background-image:url('../imgs/navbar.jpg') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.Links {
+    color: aliceblue;
+}
+
+.Homebody {
+background: linear-gradient(to right, #1E90FF,
+aqua, #FF00FF)
+
+}
+
+.Text {
+    padding: 20px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    
+}
